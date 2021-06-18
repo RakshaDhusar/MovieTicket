@@ -84,7 +84,4 @@ driver.findElementByAndroidUIAutomator("UiSelector().text(\"Password\")").sendKe
   
 
 driver.quit();
-
-}
-
-}
+	}}
